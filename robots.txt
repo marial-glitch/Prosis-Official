@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://preview-3e3090db-a2de-465a-916b-e7a214f74a3f.rehost.site/_html4life/sitemap.xml
